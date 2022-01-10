@@ -1,0 +1,1 @@
+# curative-covid-test-finder
